@@ -1,5 +1,5 @@
-sanspro
-=======
+Salary Hike Calculator
+======================
 
 New Thinking
 
