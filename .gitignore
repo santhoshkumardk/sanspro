@@ -1,4 +1,31 @@
 #################
+## Java
+#################
+
+**/target/**
+*.project
+*.classpath
+**/webapp.war/cache/**
+app/src/main/webapp.war/WEB-INF/classes/**
+*.deployed
+*.dodeploy
+*.failed
+*.isdeploying
+*.war.failed
+*.war.isdeploying
+*.class
+*.jar
+webapp.war/*.class
+*.ear
+.metadata
+workq/ear/target/**
+workq/war/target/**
+workq/ejb/target/**
+rebel.xml
+/bin
+
+
+#################
 ## Eclipse
 #################
 
